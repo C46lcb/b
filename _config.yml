@@ -1,0 +1,39 @@
+
+# nav
+nav:
+- HOME: /
+- ABOUT: /about
+- ARCHIVE: /archives
+- GITHUB: https://github.com/QZEming
+- CSDN: https://blog.csdn.net/zemprogram/
+
+# info
+title: 前端小黑
+avatar: /img/assets/logo.png
+favicon: /img/assets/favicon.ico
+
+# animation
+topCanvas: true
+bgCanvas: true
+# aside
+tagsLen: 5
+categoriesLen: 5
+newpostsLen: 5
+
+# 404img
+errorImg: /img/assets/404error.gif
+
+# mouse click
+isMouseClick: true
+clickText: ["html","css","javascript","vue","react","angular","jquery"]
+clickColor: ["#FF0000", "#FF7F00", "#FFFF00 ", "#00FF00 ", "#00FFFF ", "#0000FF", "#8B00FF"]
+
+# title change
+isTitleChange: true
+leaveText: "页面要爆炸啦快回来！！！！！"
+backText: "爆炸什么的当然是开玩笑的啦~"
+
+# copy text
+isCopyChange: true
+copyLen: 100
+copyText: "复制转载该文章内容请声明文章出处"
