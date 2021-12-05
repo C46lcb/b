@@ -1,0 +1,12 @@
+nav:
+  HOME: 首页
+  ABOUT: 关于
+  ARCHIVE: 归档
+  STATISTICS: 统计
+  GITHUB: GITHUB
+  CSDN: CSDN
+
+aside:
+  TAGS: 标签
+  CATEGORYS: 分类
+  NEWPOSTS: 最新文章
